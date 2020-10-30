@@ -40,4 +40,4 @@ os.system('git commit -m ("Initial Commit")')
 os.system('git remote add origin https://github.com/' + username + "/" + name)
 os.system('git branch -M main')
 os.system('git push -u origin main')
-#os.sytem('code .') #This is optional, if you want the folder opened in Visual Studio Code and you have it installed then uncomment this line
+#os.system('code .') #This is optional, if you want the folder opened in Visual Studio Code and you have it installed then uncomment this line
