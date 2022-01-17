@@ -1,4 +1,4 @@
-#AutoProject
+AutoProject
 
 You will need to download ChromeDriver for this to work, make sure you have both the latest version of Chrome and ChromeDriver installed
 Copy the createProject.bat into C:\Windows\System32
