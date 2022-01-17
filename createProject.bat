@@ -1,1 +1,1 @@
-python C:\Users\micha\Documents\Programming\AutoProject\autoCreate.py
+python C:\Users\PATH\autoCreate.py REM path to autoCreate.py
